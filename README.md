@@ -1,6 +1,6 @@
 # Vickson's Store | Eatery & Catering
 
-**Live site:** https://c20245005delachina-prog.github.io/Vickson's Store Eatery-delachina/
+**Live site:** https://c20245005delachina-prog.github.io/Vickson's Store Eatery/
 
 ## About
 
